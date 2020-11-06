@@ -1,0 +1,3 @@
+/Users/jiangxiaokun/CLionProjects/start_3-5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jiangxiaokun/CLionProjects/start_3-5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jiangxiaokun/CLionProjects/start_3-5/cmake-build-debug/CMakeFiles/start_3_5.dir

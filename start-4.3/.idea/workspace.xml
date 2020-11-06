@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="start_4_3" targetName="start_4_3" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="996e5ba8-6962-4f44-a86c-3c488b3067c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1XBratgeSczZqvt8uX8vk4XdbuM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start_4_3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="start_4_3" TARGET_NAME="start_4_3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="start_4_3" RUN_TARGET_NAME="start_4_3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="996e5ba8-6962-4f44-a86c-3c488b3067c5" name="Default Changelist" comment="" />
+      <created>1580530395254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580530395254</updated>
+      <workItem from="1580530397019" duration="370000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1628" height="281" key="GridCell.Tab.0.bottom" timestamp="1580530817881">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1580530817881" />
+    <state width="1628" height="281" key="GridCell.Tab.0.center" timestamp="1580530817880">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="281" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1580530817880" />
+    <state width="1628" height="281" key="GridCell.Tab.0.left" timestamp="1580530817879">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="281" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1580530817879" />
+    <state width="1628" height="281" key="GridCell.Tab.0.right" timestamp="1580530817880">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1628" height="281" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1580530817880" />
+  </component>
+</project>
